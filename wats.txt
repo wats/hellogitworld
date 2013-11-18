@@ -1,0 +1,10 @@
+This is wat's file.
+
+# This is sharp 1 line.
+
+* First line is astah 1
+* Second line is astah 1
+
+## sharp 2 line.
+
+** astah 2 line.
